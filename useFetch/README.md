@@ -1,4 +1,4 @@
-# useCounter
+# useFetch
 
 Custom hook que implementa la lógica para realizar peticiones asíncronas, a continuación se muestra un ejemplo de uso:
 

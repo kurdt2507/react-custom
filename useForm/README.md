@@ -1,4 +1,4 @@
-# useCounter
+# useForm
 
 Custom hook que permite mantenerse a la escucha de cambios en los input de un form, a continuación se muestra un ejemplo de uso:
 
